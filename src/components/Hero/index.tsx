@@ -3,7 +3,7 @@ import { Button } from "../Button";
 
 export const Hero = () => {
   return (
-    <div className="container py-10">
+    <div className="container py-1">
       <section className="relative h-125 rounded-[20px]">
         <img
           src={Banner}
